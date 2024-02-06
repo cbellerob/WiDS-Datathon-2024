@@ -2,7 +2,7 @@
 
 ## Overview
 
-Our team actively engaged in the 2024 WiDS Datathon as part of Chapman University's CPSC-298 course, where we predicted
+Our team actively engaged in the 2024 Women in Data Science (WiDS) Datathon as part of Chapman University's CPSC-298 course, where we predicted
 predict time to treatment of women patients who are diagnosed with metastatic triple-negative breast cancer.   
 
 [WiDS Datathon++ competititon](https://www.kaggle.com/competitions/widsdatathon2024-university/overview)
@@ -12,6 +12,7 @@ predict time to treatment of women patients who are diagnosed with metastatic tr
 - [Paige Caskey]()
 - [Tiffany Le]()
 - [Caroline Robinson](https://github.com/cbellerob)
+<br></br>
 
 ## Table of Contents
 - [Introduction](https://github.com/cbellerob/WiDS-Datathon-2024#introduction)
@@ -20,6 +21,7 @@ predict time to treatment of women patients who are diagnosed with metastatic tr
 - [Discussion](https://github.com/cbellerob/WiDS-Datathon-2024#discussion)
 - [Future Work](https://github.com/cbellerob/WiDS-Datathon-2024#future-work)
 - [Acknowledgements](https://github.com/cbellerob/WiDS-Datathon-2024#acknowledgements)
+<br></br>
 
 ## Introduction
 Our model aims to accurately predict the time to treatment of patients diagnosed with metastatic breast cancer, specifically how many days to treatment. The data provided by WiDS included individual and demographic information, including socio-economic impacts and diagnosis details. This model can be useful because it helps identify and prevent delays in treatment, especially for individuals who are already at a disadvantage in the healthcare system. Overall, the model can impact healthcare policy, resource allocation, and overall equity in the healthcare system.
@@ -44,6 +46,7 @@ However, due to the risks and seriousness of this problem, we don’t fully trus
 
 ## Discussion
 We learned the importance of data preparation and model selection from performing these analyses. Data cleaning (handling missing values/outliers and text clean-up), feature engineering, and model selection are all important elements for generating accurate predictions. Beyond these general topics, we found ways to improve our model uniquely, such as imputing values given data from an individual’s region or model configuration using parameters.
+<br></br>
 
 ## Future Work
 We are committed to improving the performance of our model throughout the remaining duration of the 2024 WiDS Datathon. This includes, but not limited to,
