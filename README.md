@@ -2,14 +2,13 @@
 
 ## Overview
 
-Our team engaged in the 2024 Women in Data Science (WiDS) Datathon as part of Chapman University's CPSC-298 course, where we predicted
-predict time to treatment of women patients who are diagnosed with metastatic triple-negative breast cancer.   
+Our team engaged in the 2024 Women in Data Science (WiDS) Datathon as part of Chapman University's CPSC-298 course, where we predicted the time to treatment of female patients who are diagnosed with metastatic triple-negative breast cancer.   
 
 [WiDS Datathon++ competititon](https://www.kaggle.com/competitions/widsdatathon2024-university/overview)
 <br></br>
 
 ## Team Members
-- [Paige Caskey]()
+- [Paige Caskey](https://github.com/paigecaskey)
 - [Tiffany Le]()
 - [Caroline Robinson](https://github.com/cbellerob)
 <br></br>
