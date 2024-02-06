@@ -39,8 +39,11 @@ We constructed a predictive model using CatBoost, selecting relevant parameters 
 The pipeline was fit to the training data and then applied to the testing data. Parameters, including iterations and learning rate, were adjusted to prevent overfitting and lower the error rate. Model performance was evaluated using Root Mean Squared Error (RMSE), the designated metric for the datathon.
 
 ## Results
+Our CatBoost model performed well on the training and test sets, with minimal overfitting. The CatBoost model scored an RMSE of 136.7 for the training set and 143.46 on the testing set. Through the RMSE metric, we can measure the average difference between values predicted by a model and the actual values. That said, we see that the model performs consistently on data it has and has not seen.
+However, due to the risks and seriousness of this problem, we don’t fully trust the model or would deploy the model for the real world. While it would be useful for people in the medical field or diagnosed individuals, we would feel more comfortable deploying a model with a much smaller RMSE.
 
-## Discussion
+## Discussion and Future Work
+We learned the importance of data preparation and model selection from performing these analyses. Data cleaning (handling missing values/outliers and text clean-up), feature engineering, and model selection are all important elements for generating accurate predictions. Beyond these general topics, we found ways to improve our model uniquely, such as imputing values given data from an individual’s region or model configuration using parameters.
 
 ## Future Work
 We are committed to improving the performance of our model throughout the remaining duration of the 2024 WiDS Datathon. This includes, but not limited to,
