@@ -2,7 +2,7 @@
 
 ## Overview
 
-Our team actively engaged in the 2024 Women in Data Science (WiDS) Datathon as part of Chapman University's CPSC-298 course, where we predicted
+Our team engaged in the 2024 Women in Data Science (WiDS) Datathon as part of Chapman University's CPSC-298 course, where we predicted
 predict time to treatment of women patients who are diagnosed with metastatic triple-negative breast cancer.   
 
 [WiDS Datathon++ competititon](https://www.kaggle.com/competitions/widsdatathon2024-university/overview)
