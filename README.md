@@ -9,7 +9,7 @@ Our team engaged in the 2024 Women in Data Science (WiDS) Datathon as part of Ch
 
 ## Team Members
 - [Paige Caskey](https://github.com/paigecaskey)
-- [Tiffany Le]()
+- [Tiffany Le](https://github.com/tifle)
 - [Caroline Robinson](https://github.com/cbellerob)
 <br></br>
 
@@ -40,7 +40,7 @@ We constructed a predictive model using CatBoost, selecting relevant parameters 
 The pipeline was fit to the training data and then applied to the testing data. Parameters, including iterations and learning rate, were adjusted to prevent overfitting and lower the error rate. Model performance was evaluated using Root Mean Squared Error (RMSE), the designated metric for the datathon.
 
 ## Results
-Our CatBoost model performed well on the training and test sets, with minimal overfitting. The CatBoost model scored an RMSE of 136.7 for the training set and 143.46 on the testing set. Through the RMSE metric, we can measure the average difference between values predicted by a model and the actual values. That said, we see that the model performs consistently on data it has and has not seen.
+Our CatBoost model performed well on the training and test sets, with minimal overfitting. The CatBoost model scored an RMSE of 135.96 for the training set and 143.46 on the testing set. Through the RMSE metric, we can measure the average difference between values predicted by a model and the actual values. That said, we see that the model performs consistently on data it has and has not seen.
 However, due to the risks and seriousness of this problem, we don’t fully trust the model or would deploy the model for the real world. While it would be useful for people in the medical field or diagnosed individuals, we would feel more comfortable deploying a model with a much smaller RMSE.
 
 ## Discussion
